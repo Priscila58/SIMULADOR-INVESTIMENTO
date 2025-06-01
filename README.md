@@ -32,9 +32,9 @@
 		TIJOLO	               10%	       R$ 126,00			
 		HÍBRIDOS               5%	       R$ 63,00			
 		FOFs	               5%	       R$ 63,00			
-		DESENVOLVIMENTO	20%	R$ 252,00			
-		HOTELARIAS	10%	R$ 126,00			
-				R$ 1.260,00			
+		DESENVOLVIMENTO	       20%	       R$ 252,00			
+		HOTELARIAS	       10%	       R$ 126,00			
+				                       R$ 1.260,00			
 												
 ![image](https://github.com/user-attachments/assets/23cb622c-ae9a-459d-aa0e-2f33919ce433)
 
